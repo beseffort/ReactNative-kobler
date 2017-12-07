@@ -1,0 +1,42 @@
+{
+  "name": "Kobler",
+  "version": "1.0.0",
+  "description": "",
+  "author": "Adam Broos",
+  "private": true,
+  "scripts": {
+    "start": "react-native-scripts start",
+    "eject": "react-native-scripts eject",
+    "android": "react-native-scripts android",
+    "ios": "react-native-scripts ios",
+    "test": "node node_modules/jest/bin/jest.js --watch"
+  },
+  "jest": {
+    "preset": "jest-expo"
+  },
+  "main": "node_modules/expo/AppEntry.js",
+  "dependencies": {
+    "expo": "^20.0.0",
+    "prop-types": "^15.5.10",
+    "react": "16.0.0-alpha.12",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-20.0.0.tar.gz",
+    "react-native-actionsheet": "^2.2.2",
+    "react-native-communications": "^2.2.1",
+    "react-native-datepicker": "^1.6.0",
+    "react-native-device-info": "^0.11.0",
+    "react-native-elements": "^0.16.0",
+    "react-native-keyboard-aware-scroll-view": "^0.3.0",
+    "react-native-message-bar": "^2.0.4",
+    "react-native-modal": "^2.4.0",
+    "react-native-segmented-control-tab": "^3.2.1",
+    "react-native-share": "^1.0.21",
+    "react-native-vector-icons": "^4.3.0",
+    "react-navigation": "^1.0.0-beta.11",
+    "react-redux": "^5.0.5",
+    "redux": "^3.7.1",
+    "redux-saga": "^0.15.4",
+    "redux-storage": "^4.1.2",
+    "redux-storage-engine-reactnativeasyncstorage": "^1.0.5"
+  },
+  "devDependencies": {}
+}

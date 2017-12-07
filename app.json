@@ -1,0 +1,18 @@
+{
+    "expo": {
+        "name": "Kobler",
+        "version": "1.0.0",
+        "sdkVersion": "20.0.0",
+        "orientation": "portrait",
+        "icon": "app-icon.png",
+        "loading": {
+            "hideExponentText": true
+        },
+        "ios": {
+            "bundleIdentifier": "com.koble.kobler"
+        },
+        "android": {
+            "package": "com.koble.kobler"
+        }
+    }
+}
