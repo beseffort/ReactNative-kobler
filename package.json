@@ -2,7 +2,7 @@
   "name": "Kobler",
   "version": "1.0.0",
   "description": "",
-  "author": "Adam Broos",
+  "author": "",
   "private": true,
   "scripts": {
     "start": "react-native-scripts start",
